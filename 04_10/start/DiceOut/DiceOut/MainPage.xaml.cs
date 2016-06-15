@@ -50,7 +50,7 @@ namespace DiceOut
         {
             // If the first die is equal to the second
             // AND
-            // If the first die is euqal to the third
+            // If the first die is equal to the third
             // then we have a triple!
 
             if (Dice[0] == Dice[1] && Dice[0] == Dice[2])
